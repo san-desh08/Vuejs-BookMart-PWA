@@ -1,0 +1,22 @@
+{
+    "name": "My Bookmart PWA",
+    "short_name": "Bookmart",
+    "description": "My online Bookmart app ",
+    "icons": [
+      {
+        "src": "https://bookmart.eu-north-1.elasticbeanstalk.com/Icons/icons8-law-book-100.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+  
+      {
+        "src": "https://bookmart.eu-north-1.elasticbeanstalk.com/Icons/icons8-law-book-100.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+  
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#260bca"
+  }
